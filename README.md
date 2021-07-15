@@ -14,4 +14,5 @@ As for each folder, Directory structure is structured as follows.
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
+| Jul/15/2021 | LRU Cache simple implementation update |
 | Jul/14/2021 | Set operation basics update |
