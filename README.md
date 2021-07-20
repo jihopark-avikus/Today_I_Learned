@@ -14,5 +14,6 @@ As for each folder, Directory structure is structured as follows.
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
+| Jul/16/2021 | Int Converter for binary to decimal base update |
 | Jul/15/2021 | LRU Cache simple implementation update |
 | Jul/14/2021 | Set operation basics update |
