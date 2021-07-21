@@ -13,7 +13,7 @@ As for each folder, Directory structure is structured as follows.
 
 ## Updates
 | Date | Commit Message |
-|:----:|:----:|
+|:----:|----|
 | 2021-07-21 | leetcode : longest-common-prefix update |
 | 2021-07-16 | Int Converter for binary to decimal base update |
 | 2021-07-15 | LRU Cache simple implementation update |
